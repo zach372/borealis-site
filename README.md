@@ -1,0 +1,2 @@
+# borealis-site
+Borealis Appointments provides outbound appointment-setting services for SEO agencies. We manage prospect targeting, outreach, and follow-up to book qualified sales conversations directly on our clients’ calendars. Services are delivered on a monthly subscription basis.
